@@ -1,0 +1,142 @@
+#h1{
+    text-align: center;
+}
+
+#input{
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 3rem;
+}
+
+#pass{
+    margin-top: 1rem;
+}
+
+#b1{
+    margin-left: 40%;
+    margin-right: 40%;
+    margin-top: 0.5rem;
+}
+
+#signin{
+    text-align: center;
+}
+
+#navbar{
+    display: grid;
+    grid-template-columns: 33% 34% 33%;
+    text-align: center;
+}
+
+#navbar-1{
+    display: grid;
+    grid-template-columns: 33% 34% 33%;
+    text-align: center;
+}
+
+#post{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    margin-right: 5%;
+    margin-left: 5.5%;
+}
+
+#post-1{
+    margin-left: 10%;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+#b2{
+    margin-left: 20%;
+    margin-right: 5%;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+#navbar-2{
+    margin-left: 15%;
+    margin-right: 15%;
+            
+}
+
+.pic-and-name{
+    display: grid;
+    grid-template-columns: 5rem 10rem;
+}
+
+
+.profile-pic{
+    height: 5rem;
+    width: 10rem;
+    object-fit: cover;
+    margin-bottom: 2rem;
+}
+
+
+.profile-name{
+    margin-top: 2rem;
+    margin-left: 1rem;
+}
+#img{
+    height: 20rem;
+    width: 100%;
+    object-fit: cover;
+    margin-bottom: 1rem;
+}
+
+.likes{
+    margin-bottom: 1rem;
+}
+
+#navbar-3{
+    margin-top: 2rem;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+#img-1{
+    height: 20rem;
+    width: 100%;
+    object-fit: cover;
+    margin-bottom: 1rem;
+}
+
+#navbar-4{
+    margin-top: 2rem;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+#img-2{
+    height: 20rem;
+    width: 100%;
+    object-fit: cover;
+    margin-bottom: 1rem;
+}
+
+
+.main-navbar-box{
+    display: grid;
+    grid-template-columns: 33% 34% 33%;
+    text-align: center;
+}
+
+
+.box{
+    margin-top: 2rem;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+
+
+.pic-name{
+    display: grid;
+    grid-template-columns: 5rem 10rem;
+}
+
+.profile-name {
+    margin-top: 2rem;
+    margin-left: 1rem;
+}
